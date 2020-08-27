@@ -1,6 +1,6 @@
 # Python Walkthrough
 
-This is draft code to for the Python Essentials Walkthrough project.
+This is the source code to for the Python Essentials Walkthrough project.
 
 We will walk the students through creating a class, which can be extended. Initially, it will scrape Monster, but other sites can be added.
 
