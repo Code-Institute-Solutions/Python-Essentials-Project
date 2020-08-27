@@ -10,7 +10,7 @@ class JobScrape():
         sites = [{"monster":
                   {"url": "https://www.monster.ie/jobs/search/",
                    "query_format": "?q={keywords}&where={city}&cy={country}",
-                   "results": "#SearchResults",
+                   "results": "#ResultsContainer",
                    }}]
 
     def _format_monster():
